@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+ background-color: white;
+}
+
+.rounded-md {
+    border-radius: 0.375rem;
+  }
